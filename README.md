@@ -1,2 +1,2 @@
 # scMNB
-Single Cell Variational Inference via Multivariate Negative Binomial Distribution
+Unified Batch Integration and Gene Regulatory Network Inference through Multivariate Negative Binomial Distribution
